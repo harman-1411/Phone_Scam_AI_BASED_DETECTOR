@@ -1,0 +1,7 @@
+
+gradio>=4.44,<6
+transformers>=4.44,<5
+torch
+librosa
+soundfile
+numpy
